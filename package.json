@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "dotenv": "16.0.3",
-    "mcquery": "1.0.2"
+    "mcquery": "1.0.3"
   },
   "devDependencies": {
     "@types/node": "18.11.17",
