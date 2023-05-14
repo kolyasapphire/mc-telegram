@@ -10,7 +10,7 @@
     "mcquery": "1.0.3"
   },
   "devDependencies": {
-    "@types/node": "18.16.6",
+    "@types/node": "18.16.7",
     "@vercel/node": "2.14.1",
     "ts-node": "10.9.1",
     "typescript": "5.0.4"
